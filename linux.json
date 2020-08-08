@@ -1,0 +1,1315 @@
+[
+  {
+    "name" : "1、文件管理",
+    "subs" : [
+      {
+        "title" : "cat",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-cat.html"
+      },
+      {
+        "title" : "chattr",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-chattr.html"
+      },
+      {
+        "title" : "chgrp",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-chgrp.html"
+      },
+      {
+        "title" : "chmod",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-chmod.html"
+      },
+      {
+        "title" : "chown",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-chown.html"
+      },
+      {
+        "title" : "cksum",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-cksum.html"
+      },
+      {
+        "title" : "cmp",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-cmp.html"
+      },
+      {
+        "title" : "diff",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-diff.html"
+      },
+      {
+        "title" : "diffstat",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-diffstat.html"
+      },
+      {
+        "title" : "file",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-file.html"
+      },
+      {
+        "title" : "find",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-find.html"
+      },
+      {
+        "title" : "git",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-git.html"
+      },
+      {
+        "title" : "gitview",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-gitview.html"
+      },
+      {
+        "title" : "indent",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-indent.html"
+      },
+      {
+        "title" : "cut",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-cut.html"
+      },
+      {
+        "title" : "ln",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-ln.html"
+      },
+      {
+        "title" : "less",
+        "url" : "https:\/\/www.runoob.comlinux-comm-less.html"
+      },
+      {
+        "title" : "locate",
+        "url" : "https:\/\/www.runoob.comlinux-comm-locate.html"
+      },
+      {
+        "title" : "lsattr",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lsattr.html"
+      },
+      {
+        "title" : "mattrib",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mattrib.html"
+      },
+      {
+        "title" : "mc",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mc.html"
+      },
+      {
+        "title" : "mdel",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mdel.html"
+      },
+      {
+        "title" : "mdir",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mdir.html"
+      },
+      {
+        "title" : "mktemp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mktemp.html"
+      },
+      {
+        "title" : "more",
+        "url" : "https:\/\/www.runoob.comlinux-comm-more.html"
+      },
+      {
+        "title" : "mmove",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mmove.html"
+      },
+      {
+        "title" : "mread",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mread.html"
+      },
+      {
+        "title" : "mren",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mren.html"
+      },
+      {
+        "title" : "mtools",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mtools.html"
+      },
+      {
+        "title" : "mtoolstest",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mtoolstest.html"
+      },
+      {
+        "title" : "mv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mv.html"
+      },
+      {
+        "title" : "od",
+        "url" : "https:\/\/www.runoob.comlinux-comm-od.html"
+      },
+      {
+        "title" : "paste",
+        "url" : "https:\/\/www.runoob.comlinux-comm-paste.html"
+      },
+      {
+        "title" : "patch",
+        "url" : "https:\/\/www.runoob.comlinux-comm-patch.html"
+      },
+      {
+        "title" : "rcp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rcp.html"
+      },
+      {
+        "title" : "rm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rm.html"
+      },
+      {
+        "title" : "slocate",
+        "url" : "https:\/\/www.runoob.comlinux-comm-slocate.html"
+      },
+      {
+        "title" : "split",
+        "url" : "https:\/\/www.runoob.comlinux-comm-split.html"
+      },
+      {
+        "title" : "tee",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tee.html"
+      },
+      {
+        "title" : "tmpwatch",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tmpwatch.html"
+      },
+      {
+        "title" : "touch",
+        "url" : "https:\/\/www.runoob.comlinux-comm-touch.html"
+      },
+      {
+        "title" : "umask",
+        "url" : "https:\/\/www.runoob.comlinux-comm-umask.html"
+      },
+      {
+        "title" : "which",
+        "url" : "https:\/\/www.runoob.comlinux-comm-which.html"
+      },
+      {
+        "title" : "cp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-cp.html"
+      },
+      {
+        "title" : "whereis",
+        "url" : "https:\/\/www.runoob.comlinux-comm-whereis.html"
+      },
+      {
+        "title" : "mcopy",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mcopy.html"
+      },
+      {
+        "title" : "mshowfat",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mshowfat.html"
+      },
+      {
+        "title" : "rhmask",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rhmask.html"
+      },
+      {
+        "title" : "scp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-scp.html"
+      },
+      {
+        "title" : "awk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-awk.html"
+      },
+      {
+        "title" : "read",
+        "url" : "https:\/\/www.runoob.comlinux-comm-read.html"
+      },
+      {
+        "title" : "updatedb",
+        "url" : "https:\/\/www.runoob.comlinux-comm-updatedb.html"
+      }
+    ]
+  },
+  {
+    "name" : "2、文档编辑",
+    "subs" : [
+      {
+        "title" : "col",
+        "url" : "https:\/\/www.runoob.comlinux-comm-col.html"
+      },
+      {
+        "title" : "colrm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-colrm.html"
+      },
+      {
+        "title" : "comm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-comm.html"
+      },
+      {
+        "title" : "csplit",
+        "url" : "https:\/\/www.runoob.comlinux-comm-csplit.html"
+      },
+      {
+        "title" : "ed",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ed.html"
+      },
+      {
+        "title" : "egrep",
+        "url" : "https:\/\/www.runoob.comlinux-comm-egrep.html"
+      },
+      {
+        "title" : "ex",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ex.html"
+      },
+      {
+        "title" : "fgrep",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fgrep.html"
+      },
+      {
+        "title" : "fmt",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fmt.html"
+      },
+      {
+        "title" : "fold",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fold.html"
+      },
+      {
+        "title" : "grep",
+        "url" : "https:\/\/www.runoob.comlinux-comm-grep.html"
+      },
+      {
+        "title" : "ispell",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ispell.html"
+      },
+      {
+        "title" : "jed",
+        "url" : "https:\/\/www.runoob.comlinux-comm-jed.html"
+      },
+      {
+        "title" : "joe",
+        "url" : "https:\/\/www.runoob.comlinux-comm-joe.html"
+      },
+      {
+        "title" : "join",
+        "url" : "https:\/\/www.runoob.comlinux-comm-join.html"
+      },
+      {
+        "title" : "look",
+        "url" : "https:\/\/www.runoob.comlinux-comm-look.html"
+      },
+      {
+        "title" : "mtype",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mtype.html"
+      },
+      {
+        "title" : "pico",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pico.html"
+      },
+      {
+        "title" : "rgrep",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rgrep.html"
+      },
+      {
+        "title" : "sed",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sed.html"
+      },
+      {
+        "title" : "sort",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sort.html"
+      },
+      {
+        "title" : "spell",
+        "url" : "https:\/\/www.runoob.comlinux-comm-spell.html"
+      },
+      {
+        "title" : "tr",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tr.html"
+      },
+      {
+        "title" : "expr",
+        "url" : "https:\/\/www.runoob.comlinux-comm-expr.html"
+      },
+      {
+        "title" : "uniq",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uniq.html"
+      },
+      {
+        "title" : "wc",
+        "url" : "https:\/\/www.runoob.comlinux-comm-wc.html"
+      },
+      {
+        "title" : "let",
+        "url" : "https:\/\/www.runoob.comlinux-comm-let.html"
+      }
+    ]
+  },
+  {
+    "name" : "3、文件传输",
+    "subs" : [
+      {
+        "title" : "lprm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lprm.html"
+      },
+      {
+        "title" : "lpr",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lpr.html"
+      },
+      {
+        "title" : "lpq",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lpq.html"
+      },
+      {
+        "title" : "lpd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lpd.html"
+      },
+      {
+        "title" : "bye",
+        "url" : "https:\/\/www.runoob.comlinux-comm-bye.html"
+      },
+      {
+        "title" : "ftp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ftp.html"
+      },
+      {
+        "title" : "uuto",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uuto.html"
+      },
+      {
+        "title" : "uupick",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uupick.html"
+      },
+      {
+        "title" : "uucp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uucp.html"
+      },
+      {
+        "title" : "uucico",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uucico.html"
+      },
+      {
+        "title" : "tftp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tftp.html"
+      },
+      {
+        "title" : "ncftp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ncftp.html"
+      },
+      {
+        "title" : "ftpshut",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ftpshut.html"
+      },
+      {
+        "title" : "ftpwho",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ftpwho.html"
+      },
+      {
+        "title" : "ftpcount",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ftpcount.html"
+      }
+    ]
+  },
+  {
+    "name" : "4、磁盘管理",
+    "subs" : [
+      {
+        "title" : "cd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-cd.html"
+      },
+      {
+        "title" : "df",
+        "url" : "https:\/\/www.runoob.comlinux-comm-df.html"
+      },
+      {
+        "title" : "dirs",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dirs.html"
+      },
+      {
+        "title" : "du",
+        "url" : "https:\/\/www.runoob.comlinux-comm-du.html"
+      },
+      {
+        "title" : "edquota",
+        "url" : "https:\/\/www.runoob.comlinux-comm-edquota.html"
+      },
+      {
+        "title" : "eject",
+        "url" : "https:\/\/www.runoob.comlinux-comm-eject.html"
+      },
+      {
+        "title" : "mcd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mcd.html"
+      },
+      {
+        "title" : "mdeltree",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mdeltree.html"
+      },
+      {
+        "title" : "mdu",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mdu.html"
+      },
+      {
+        "title" : "mkdir",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkdir.html"
+      },
+      {
+        "title" : "mlabel",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mlabel.html"
+      },
+      {
+        "title" : "mmd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mmd.html"
+      },
+      {
+        "title" : "mrd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mrd.html"
+      },
+      {
+        "title" : "mzip",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mzip.html"
+      },
+      {
+        "title" : "pwd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pwd.html"
+      },
+      {
+        "title" : "quota",
+        "url" : "https:\/\/www.runoob.comlinux-comm-quota.html"
+      },
+      {
+        "title" : "mount",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mount.html"
+      },
+      {
+        "title" : "mmount",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mmount.html"
+      },
+      {
+        "title" : "rmdir",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rmdir.html"
+      },
+      {
+        "title" : "rmt",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rmt.html"
+      },
+      {
+        "title" : "stat",
+        "url" : "https:\/\/www.runoob.comlinux-comm-stat.html"
+      },
+      {
+        "title" : "tree",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tree.html"
+      },
+      {
+        "title" : "umount",
+        "url" : "https:\/\/www.runoob.comlinux-comm-umount.html"
+      },
+      {
+        "title" : "ls",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ls.html"
+      },
+      {
+        "title" : "quotacheck",
+        "url" : "https:\/\/www.runoob.comlinux-comm-quotacheck.html"
+      },
+      {
+        "title" : "quotaoff",
+        "url" : "https:\/\/www.runoob.comlinux-comm-quotaoff.html"
+      },
+      {
+        "title" : "lndir",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lndir.html"
+      },
+      {
+        "title" : "repquota",
+        "url" : "https:\/\/www.runoob.comlinux-comm-repquota.html"
+      },
+      {
+        "title" : "quotaon",
+        "url" : "https:\/\/www.runoob.comlinux-comm-quotaon.html"
+      }
+    ]
+  },
+  {
+    "name" : "5、磁盘维护",
+    "subs" : [
+      {
+        "title" : "badblocks",
+        "url" : "https:\/\/www.runoob.comlinux-comm-badblocks.html"
+      },
+      {
+        "title" : "cfdisk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-cfdisk.html"
+      },
+      {
+        "title" : "dd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dd.html"
+      },
+      {
+        "title" : "e2fsck",
+        "url" : "https:\/\/www.runoob.comlinux-comm-e2fsck.html"
+      },
+      {
+        "title" : "ext2ed",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ext2ed.html"
+      },
+      {
+        "title" : "fsck",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fsck.html"
+      },
+      {
+        "title" : "fsck.minix",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fsck-minix.html"
+      },
+      {
+        "title" : "fsconf",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fsconf.html"
+      },
+      {
+        "title" : "fdformat",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fdformat.html"
+      },
+      {
+        "title" : "hdparm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-hdparm.html"
+      },
+      {
+        "title" : "mformat",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mformat.html"
+      },
+      {
+        "title" : "mkbootdisk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkbootdisk.html"
+      },
+      {
+        "title" : "mkdosfs",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkdosfs.html"
+      },
+      {
+        "title" : "mke2fs",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mke2fs.html"
+      },
+      {
+        "title" : "mkfs.ext2",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkfs-ext2.html"
+      },
+      {
+        "title" : "mkfs.msdos",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkfs-msdos.html"
+      },
+      {
+        "title" : "mkinitrd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkinitrd.html"
+      },
+      {
+        "title" : "mkisofs",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkisofs.html"
+      },
+      {
+        "title" : "mkswap",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkswap.html"
+      },
+      {
+        "title" : "mpartition",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mpartition.html"
+      },
+      {
+        "title" : "swapon",
+        "url" : "https:\/\/www.runoob.comlinux-comm-swapon.html"
+      },
+      {
+        "title" : "symlinks",
+        "url" : "https:\/\/www.runoob.comlinux-comm-symlinks.html"
+      },
+      {
+        "title" : "sync",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sync.html"
+      },
+      {
+        "title" : "mbadblocks",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mbadblocks.html"
+      },
+      {
+        "title" : "mkfs.minix",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkfs-minix.html"
+      },
+      {
+        "title" : "fsck.ext2",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fsck-ext2.html"
+      },
+      {
+        "title" : "fdisk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fdisk.html"
+      },
+      {
+        "title" : "losetup",
+        "url" : "https:\/\/www.runoob.comlinux-comm-losetup.html"
+      },
+      {
+        "title" : "mkfs",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkfs.html"
+      },
+      {
+        "title" : "sfdisk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sfdisk.html"
+      },
+      {
+        "title" : "swapoff",
+        "url" : "https:\/\/www.runoob.comlinux-comm-swapoff.html"
+      }
+    ]
+  },
+  {
+    "name" : "6、网络通讯",
+    "subs" : [
+      {
+        "title" : "apachectl",
+        "url" : "https:\/\/www.runoob.comlinux-comm-apachectl.html"
+      },
+      {
+        "title" : "arpwatch",
+        "url" : "https:\/\/www.runoob.comlinux-comm-arpwatch.html"
+      },
+      {
+        "title" : "dip",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dip.html"
+      },
+      {
+        "title" : "getty",
+        "url" : "https:\/\/www.runoob.comlinux-comm-getty.html"
+      },
+      {
+        "title" : "mingetty",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mingetty.html"
+      },
+      {
+        "title" : "uux",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uux.html"
+      },
+      {
+        "title" : "telnet",
+        "url" : "https:\/\/www.runoob.comlinux-comm-telnet.html"
+      },
+      {
+        "title" : "uulog",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uulog.html"
+      },
+      {
+        "title" : "uustat",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uustat.html"
+      },
+      {
+        "title" : "ppp-off",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ppp-off.html"
+      },
+      {
+        "title" : "netconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-netconfig.html"
+      },
+      {
+        "title" : "nc",
+        "url" : "https:\/\/www.runoob.comlinux-comm-nc.html"
+      },
+      {
+        "title" : "httpd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-httpd.html"
+      },
+      {
+        "title" : "ifconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ifconfig.html"
+      },
+      {
+        "title" : "minicom",
+        "url" : "https:\/\/www.runoob.comlinux-comm-minicom.html"
+      },
+      {
+        "title" : "mesg",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mesg.html"
+      },
+      {
+        "title" : "dnsconf",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dnsconf.html"
+      },
+      {
+        "title" : "wall",
+        "url" : "https:\/\/www.runoob.comlinux-comm-wall.html"
+      },
+      {
+        "title" : "netstat",
+        "url" : "https:\/\/www.runoob.comlinux-comm-netstat.html"
+      },
+      {
+        "title" : "ping",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ping.html"
+      },
+      {
+        "title" : "pppstats",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pppstats.html"
+      },
+      {
+        "title" : "samba",
+        "url" : "https:\/\/www.runoob.comlinux-comm-samba.html"
+      },
+      {
+        "title" : "setserial",
+        "url" : "https:\/\/www.runoob.comlinux-comm-setserial.html"
+      },
+      {
+        "title" : "talk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-talk.html"
+      },
+      {
+        "title" : "traceroute",
+        "url" : "https:\/\/www.runoob.comlinux-comm-traceroute.html"
+      },
+      {
+        "title" : "tty",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tty.html"
+      },
+      {
+        "title" : "newaliases",
+        "url" : "https:\/\/www.runoob.comlinux-comm-newaliases.html"
+      },
+      {
+        "title" : "uuname",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uuname.html"
+      },
+      {
+        "title" : "netconf",
+        "url" : "https:\/\/www.runoob.comlinux-comm-netconf.html"
+      },
+      {
+        "title" : "write",
+        "url" : "https:\/\/www.runoob.comlinux-comm-write.html"
+      },
+      {
+        "title" : "statserial",
+        "url" : "https:\/\/www.runoob.comlinux-comm-statserial.html"
+      },
+      {
+        "title" : "efax",
+        "url" : "https:\/\/www.runoob.comlinux-comm-efax.html"
+      },
+      {
+        "title" : "pppsetup",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pppsetup.html"
+      },
+      {
+        "title" : "tcpdump",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tcpdump.html"
+      },
+      {
+        "title" : "ytalk",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ytalk.html"
+      },
+      {
+        "title" : "cu",
+        "url" : "https:\/\/www.runoob.comlinux-comm-cu.html"
+      },
+      {
+        "title" : "smbd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-smbd.html"
+      },
+      {
+        "title" : "testparm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-testparm.html"
+      },
+      {
+        "title" : "smbclient",
+        "url" : "https:\/\/www.runoob.comlinux-comm-smbclient.html"
+      },
+      {
+        "title" : "shapecfg",
+        "url" : "https:\/\/www.runoob.comlinux-comm-shapecfg.html"
+      }
+    ]
+  },
+  {
+    "name" : "7、系统管理",
+    "subs" : [
+      {
+        "title" : "adduser",
+        "url" : "https:\/\/www.runoob.comlinux-comm-adduser.html"
+      },
+      {
+        "title" : "chfn",
+        "url" : "https:\/\/www.runoob.comlinux-comm-chfn.html"
+      },
+      {
+        "title" : "useradd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-useradd.html"
+      },
+      {
+        "title" : "date",
+        "url" : "https:\/\/www.runoob.comlinux-comm-date.html"
+      },
+      {
+        "title" : "exit",
+        "url" : "https:\/\/www.runoob.comlinux-comm-exit.html"
+      },
+      {
+        "title" : "finger",
+        "url" : "https:\/\/www.runoob.comlinux-comm-finger.html"
+      },
+      {
+        "title" : "fwhios",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fwhios.html"
+      },
+      {
+        "title" : "sleep",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sleep.html"
+      },
+      {
+        "title" : "suspend",
+        "url" : "https:\/\/www.runoob.comlinux-comm-suspend.html"
+      },
+      {
+        "title" : "groupdel",
+        "url" : "https:\/\/www.runoob.comlinux-comm-groupdel.html"
+      },
+      {
+        "title" : "groupmod",
+        "url" : "https:\/\/www.runoob.comlinux-comm-groupmod.html"
+      },
+      {
+        "title" : "halt",
+        "url" : "https:\/\/www.runoob.comlinux-comm-halt.html"
+      },
+      {
+        "title" : "kill",
+        "url" : "https:\/\/www.runoob.comlinux-comm-kill.html"
+      },
+      {
+        "title" : "last",
+        "url" : "https:\/\/www.runoob.comlinux-comm-last.html"
+      },
+      {
+        "title" : "lastb",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lastb.html"
+      },
+      {
+        "title" : "login",
+        "url" : "https:\/\/www.runoob.comlinux-comm-login.html"
+      },
+      {
+        "title" : "logname",
+        "url" : "https:\/\/www.runoob.comlinux-comm-logname.html"
+      },
+      {
+        "title" : "logout",
+        "url" : "https:\/\/www.runoob.comlinux-comm-logout.html"
+      },
+      {
+        "title" : "ps",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ps.html"
+      },
+      {
+        "title" : "nice",
+        "url" : "https:\/\/www.runoob.comlinux-comm-nice.html"
+      },
+      {
+        "title" : "procinfo",
+        "url" : "https:\/\/www.runoob.comlinux-comm-procinfo.html"
+      },
+      {
+        "title" : "top",
+        "url" : "https:\/\/www.runoob.comlinux-comm-top.html"
+      },
+      {
+        "title" : "pstree",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pstree.html"
+      },
+      {
+        "title" : "reboot",
+        "url" : "https:\/\/www.runoob.comlinux-comm-reboot.html"
+      },
+      {
+        "title" : "rlogin",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rlogin.html"
+      },
+      {
+        "title" : "rsh",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rsh.html"
+      },
+      {
+        "title" : "sliplogin",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sliplogin.html"
+      },
+      {
+        "title" : "screen",
+        "url" : "https:\/\/www.runoob.comlinux-comm-screen.html"
+      },
+      {
+        "title" : "shutdown",
+        "url" : "https:\/\/www.runoob.comlinux-comm-shutdown.html"
+      },
+      {
+        "title" : "rwho",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rwho.html"
+      },
+      {
+        "title" : "sudo",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sudo.html"
+      },
+      {
+        "title" : "gitps",
+        "url" : "https:\/\/www.runoob.comlinux-comm-gitps.html"
+      },
+      {
+        "title" : "swatch",
+        "url" : "https:\/\/www.runoob.comlinux-comm-swatch.html"
+      },
+      {
+        "title" : "tload",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tload.html"
+      },
+      {
+        "title" : "logrotate",
+        "url" : "https:\/\/www.runoob.comlinux-comm-logrotate.html"
+      },
+      {
+        "title" : "uname",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uname.html"
+      },
+      {
+        "title" : "chsh",
+        "url" : "https:\/\/www.runoob.comlinux-comm-chsh.html"
+      },
+      {
+        "title" : "userconf",
+        "url" : "https:\/\/www.runoob.comlinux-comm-userconf.html"
+      },
+      {
+        "title" : "userdel",
+        "url" : "https:\/\/www.runoob.comlinux-comm-userdel.html"
+      },
+      {
+        "title" : "usermod",
+        "url" : "https:\/\/www.runoob.comlinux-comm-usermod.html"
+      },
+      {
+        "title" : "vlock",
+        "url" : "https:\/\/www.runoob.comlinux-comm-vlock.html"
+      },
+      {
+        "title" : "who",
+        "url" : "https:\/\/www.runoob.comlinux-comm-who.html"
+      },
+      {
+        "title" : "whoami",
+        "url" : "https:\/\/www.runoob.comlinux-comm-whoami.html"
+      },
+      {
+        "title" : "whois",
+        "url" : "https:\/\/www.runoob.comlinux-comm-whois.html"
+      },
+      {
+        "title" : "newgrp",
+        "url" : "https:\/\/www.runoob.comlinux-comm-newgrp.html"
+      },
+      {
+        "title" : "renice",
+        "url" : "https:\/\/www.runoob.comlinux-comm-renice.html"
+      },
+      {
+        "title" : "su",
+        "url" : "https:\/\/www.runoob.comlinux-comm-su.html"
+      },
+      {
+        "title" : "skill",
+        "url" : "https:\/\/www.runoob.comlinux-comm-skill.html"
+      },
+      {
+        "title" : "w",
+        "url" : "https:\/\/www.runoob.comlinux-comm-w.html"
+      },
+      {
+        "title" : "id",
+        "url" : "https:\/\/www.runoob.comlinux-comm-id.html"
+      },
+      {
+        "title" : "groupadd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-groupadd.html"
+      },
+      {
+        "title" : "free",
+        "url" : "https:\/\/www.runoob.comlinux-comm-free.html"
+      }
+    ]
+  },
+  {
+    "name" : "8、系统设置",
+    "subs" : [
+      {
+        "title" : "reset",
+        "url" : "https:\/\/www.runoob.comlinux-comm-reset.html"
+      },
+      {
+        "title" : "clear",
+        "url" : "https:\/\/www.runoob.comlinux-comm-clear.html"
+      },
+      {
+        "title" : "alias",
+        "url" : "https:\/\/www.runoob.comlinux-comm-alias.html"
+      },
+      {
+        "title" : "dircolors",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dircolors.html"
+      },
+      {
+        "title" : "aumix",
+        "url" : "https:\/\/www.runoob.comlinux-comm-aumix.html"
+      },
+      {
+        "title" : "bind",
+        "url" : "https:\/\/www.runoob.comlinux-comm-bind.html"
+      },
+      {
+        "title" : "chroot",
+        "url" : "https:\/\/www.runoob.comlinux-comm-chroot.html"
+      },
+      {
+        "title" : "clock",
+        "url" : "https:\/\/www.runoob.comlinux-comm-clock.html"
+      },
+      {
+        "title" : "crontab",
+        "url" : "https:\/\/www.runoob.comlinux-comm-crontab.html"
+      },
+      {
+        "title" : "declare",
+        "url" : "https:\/\/www.runoob.comlinux-comm-declare.html"
+      },
+      {
+        "title" : "depmod",
+        "url" : "https:\/\/www.runoob.comlinux-comm-depmod.html"
+      },
+      {
+        "title" : "dmesg",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dmesg.html"
+      },
+      {
+        "title" : "enable",
+        "url" : "https:\/\/www.runoob.comlinux-comm-enable.html"
+      },
+      {
+        "title" : "eval",
+        "url" : "https:\/\/www.runoob.comlinux-comm-eval.html"
+      },
+      {
+        "title" : "export",
+        "url" : "https:\/\/www.runoob.comlinux-comm-export.html"
+      },
+      {
+        "title" : "pwunconv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pwunconv.html"
+      },
+      {
+        "title" : "grpconv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-grpconv.html"
+      },
+      {
+        "title" : "rpm",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rpm.html"
+      },
+      {
+        "title" : "insmod",
+        "url" : "https:\/\/www.runoob.comlinux-comm-insmod.html"
+      },
+      {
+        "title" : "kbdconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-kbdconfig.html"
+      },
+      {
+        "title" : "lilo",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lilo.html"
+      },
+      {
+        "title" : "liloconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-liloconfig.html"
+      },
+      {
+        "title" : "lsmod",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lsmod.html"
+      },
+      {
+        "title" : "minfo",
+        "url" : "https:\/\/www.runoob.comlinux-comm-minfo.html"
+      },
+      {
+        "title" : "set",
+        "url" : "https:\/\/www.runoob.comlinux-comm-set.html"
+      },
+      {
+        "title" : "modprobe",
+        "url" : "https:\/\/www.runoob.comlinux-comm-modprobe.html"
+      },
+      {
+        "title" : "ntsysv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ntsysv.html"
+      },
+      {
+        "title" : "mouseconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mouseconfig.html"
+      },
+      {
+        "title" : "passwd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-passwd.html"
+      },
+      {
+        "title" : "pwconv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-pwconv.html"
+      },
+      {
+        "title" : "rdate",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rdate.html"
+      },
+      {
+        "title" : "resize",
+        "url" : "https:\/\/www.runoob.comlinux-comm-resize.html"
+      },
+      {
+        "title" : "rmmod",
+        "url" : "https:\/\/www.runoob.comlinux-comm-rmmod.html"
+      },
+      {
+        "title" : "grpunconv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-grpunconv.html"
+      },
+      {
+        "title" : "modinfo",
+        "url" : "https:\/\/www.runoob.comlinux-comm-modinfo.html"
+      },
+      {
+        "title" : "time",
+        "url" : "https:\/\/www.runoob.comlinux-comm-time.html"
+      },
+      {
+        "title" : "setup",
+        "url" : "https:\/\/www.runoob.comlinux-comm-setup.html"
+      },
+      {
+        "title" : "sndconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-sndconfig.html"
+      },
+      {
+        "title" : "setenv",
+        "url" : "https:\/\/www.runoob.comlinux-comm-setenv.html"
+      },
+      {
+        "title" : "setconsole",
+        "url" : "https:\/\/www.runoob.comlinux-comm-setconsole.html"
+      },
+      {
+        "title" : "timeconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-timeconfig.html"
+      },
+      {
+        "title" : "ulimit",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ulimit.html"
+      },
+      {
+        "title" : "unset",
+        "url" : "https:\/\/www.runoob.comlinux-comm-unset.html"
+      },
+      {
+        "title" : "chkconfig",
+        "url" : "https:\/\/www.runoob.comlinux-comm-chkconfig.html"
+      },
+      {
+        "title" : "apmd",
+        "url" : "https:\/\/www.runoob.comlinux-comm-apmd.html"
+      },
+      {
+        "title" : "hwclock",
+        "url" : "https:\/\/www.runoob.comlinux-comm-hwclock.html"
+      },
+      {
+        "title" : "mkkickstart",
+        "url" : "https:\/\/www.runoob.comlinux-comm-mkkickstart.html"
+      },
+      {
+        "title" : "fbset",
+        "url" : "https:\/\/www.runoob.comlinux-comm-fbset.html"
+      },
+      {
+        "title" : "unalias",
+        "url" : "https:\/\/www.runoob.comlinux-comm-unalias.html"
+      },
+      {
+        "title" : "SVGATextMode",
+        "url" : "https:\/\/www.runoob.comlinux-comm-svgatextmode.html"
+      },
+      {
+        "title" : "gpasswd",
+        "url" : "https:\/\/www.runoob.com\/linux\/linux-comm-gpasswd.html"
+      }
+    ]
+  },
+  {
+    "name" : "9、备份压缩",
+    "subs" : [
+      {
+        "title" : "ar",
+        "url" : "https:\/\/www.runoob.comlinux-comm-ar.html"
+      },
+      {
+        "title" : "bunzip2",
+        "url" : "https:\/\/www.runoob.comlinux-comm-bunzip2.html"
+      },
+      {
+        "title" : "bzip2",
+        "url" : "https:\/\/www.runoob.comlinux-comm-bzip2.html"
+      },
+      {
+        "title" : "bzip2recover",
+        "url" : "https:\/\/www.runoob.comlinux-comm-bzip2recover.html"
+      },
+      {
+        "title" : "gunzip",
+        "url" : "https:\/\/www.runoob.comlinux-comm-gunzip.html"
+      },
+      {
+        "title" : "unarj",
+        "url" : "https:\/\/www.runoob.comlinux-comm-unarj.html"
+      },
+      {
+        "title" : "compress",
+        "url" : "https:\/\/www.runoob.comlinux-comm-compress.html"
+      },
+      {
+        "title" : "cpio",
+        "url" : "https:\/\/www.runoob.comlinux-comm-cpio.html"
+      },
+      {
+        "title" : "dump",
+        "url" : "https:\/\/www.runoob.comlinux-comm-dump.html"
+      },
+      {
+        "title" : "uuencode",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uuencode.html"
+      },
+      {
+        "title" : "gzexe",
+        "url" : "https:\/\/www.runoob.comlinux-comm-gzexe.html"
+      },
+      {
+        "title" : "gzip",
+        "url" : "https:\/\/www.runoob.comlinux-comm-gzip.html"
+      },
+      {
+        "title" : "lha",
+        "url" : "https:\/\/www.runoob.comlinux-comm-lha.html"
+      },
+      {
+        "title" : "restore",
+        "url" : "https:\/\/www.runoob.comlinux-comm-restore.html"
+      },
+      {
+        "title" : "tar",
+        "url" : "https:\/\/www.runoob.comlinux-comm-tar.html"
+      },
+      {
+        "title" : "uudecode",
+        "url" : "https:\/\/www.runoob.comlinux-comm-uudecode.html"
+      },
+      {
+        "title" : "unzip",
+        "url" : "https:\/\/www.runoob.comlinux-comm-unzip.html"
+      },
+      {
+        "title" : "zip",
+        "url" : "https:\/\/www.runoob.comlinux-comm-zip.html"
+      },
+      {
+        "title" : "zipinfo",
+        "url" : "https:\/\/www.runoob.comlinux-comm-zipinfo.html"
+      }
+    ]
+  },
+  {
+    "name" : "10、设备管理"
+  }
+]
+
